@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my frontend development skills.<br>🤝 I’m looking to learn and work with everyone.<br>⚡ Other than that, I am just a silly cat >_<
+🔭 I’m currently working on my frontend development skills.<br>🤝 I’m looking to learn and work with everyone.<br>
 
 
 ## 🌐 Socials:
