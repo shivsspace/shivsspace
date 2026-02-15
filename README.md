@@ -16,8 +16,8 @@ const shivangi = {
     location: "India 🇮🇳",
     currentFocus: "Building amazing web experiences",
     hobbies: ["Coding 💻", "Designing 🎨", "Learning 📚"],
-    funFact: "I turn coffee into code! ☕️→ 💻",
-    goals: ["Master Full Stack", "Contribute to Open Source", "Never Stop Learning"]
+    funFact: "I turn random ideas into design & code! 🎨→ 💻",
+    goals: ["Never Stop Learning"]
 };
 ```
 
@@ -26,10 +26,10 @@ const shivangi = {
 ## 💖 What I'm Up To
 
 - 🔭 **Currently Working On:** Exciting web projects that blend creativity with functionality
-- 🌱 **Learning:** Advanced React patterns and backend technologies
+- 🌱 **Learning:** Advanced React patterns and backend technologies, AIML
 - 🤝 **Looking to Collaborate:** On innovative open-source projects
 - 💬 **Ask Me About:** Web development, UI/UX design, or anything tech!
-- ⚡ **Fun Fact:** I believe every bug is just a feature in disguise 🐛✨
+
 
 <div align="center">
 
@@ -37,10 +37,8 @@ const shivangi = {
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
