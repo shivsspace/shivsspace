@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hi%20there!%20I'm%20Shivangi%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn" />
-
-<img src="./assets/girlcoding.gif" width="300" alt="Coding Animation" />
+# 👋 Hi there! I'm Shivangi Tripathi
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%92%AB;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🌸 About Me
 
@@ -18,8 +16,8 @@ const shivangi = {
     location: "India 🇮🇳",
     currentFocus: "Building amazing web experiences",
     hobbies: ["Coding 💻", "Designing 🎨", "Learning 📚"],
-    funFact: "I turn random ideas into design & code! 🎨→ 💻",
-    goals: ["Never Stop Learning"]
+    funFact: "I turn coffee into code! ☕️→ 💻",
+    goals: ["Master Full Stack", "Contribute to Open Source", "Never Stop Learning"]
 };
 ```
 
@@ -28,10 +26,10 @@ const shivangi = {
 ## 💖 What I'm Up To
 
 - 🔭 **Currently Working On:** Exciting web projects that blend creativity with functionality
-- 🌱 **Learning:** Advanced React patterns and backend technologies, AIML
+- 🌱 **Learning:** Advanced React patterns and backend technologies
 - 🤝 **Looking to Collaborate:** On innovative open-source projects
 - 💬 **Ask Me About:** Web development, UI/UX design, or anything tech!
-
+- ⚡ **Fun Fact:** I believe every bug is just a feature in disguise 🐛✨
 
 <div align="center">
 
@@ -39,8 +37,10 @@ const shivangi = {
 
 ### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
