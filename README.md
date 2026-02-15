@@ -2,7 +2,15 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hi%20there!%20I'm%20Shivangi%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=200&section=header&text=Hi%20there!%20I'm%20Shivangi%20%F0%9F%91%8B&fontSize=50&fontColor=ffffff&animation=fadeIn" />
+
+<img src="./assets/girlcoding.gif" width="300" alt="Coding Animation" />
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=FF69B4&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+Profile!+%F0%9F%92%AB;Full+Stack+Developer+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A;Let's+Build+Something+Amazing!+%E2%9C%A8" alt="Typing SVG" />
+
+</div>
 
 </div>
 
