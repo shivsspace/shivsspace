@@ -4,11 +4,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:f48fb1,50:ce93d8,100:90caf9&height=36&text=🌸%20shivsspace%20—%20GitHub%20Profile%20✨&fontColor=ffffff&fontSize=13&fontAlign=50&fontAlignY=60" width="100%"/>
 
 <!-- 🌸 Bliss but make it pastel -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,40:f3e5f5,70:e8eaf6,100:e3f2fd&height=200&text=Hi%20there!%20I'm%20Shivangi%20Tripathi%20👋&fontColor=ce93d8&fontSize=30&fontAlignY=42&desc=Full%20Stack%20Developer%20✦%20UI%2FUX%20Enthusiast%20✦%20Always%20Learning%20🌱&descFontColor=f48fb1&descAlignY=62&descSize=13&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:fce4ec,40:f3e5f5,70:e8eaf6,100:e3f2fd&height=200&text=Hi%20there!%20I'm%20Shivangi%20Tripathi%20👋&fontColor=ce93d8&fontSize=30&fontAlignY=42&desc=AI%2FML%20Enthusiast%20✦%20UI%2FUX%20Enthusiast%20✦%20Always%20Learning%20🌱&descFontColor=f48fb1&descAlignY=62&descSize=13&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=20&pause=1000&color=E91E8C&center=true&vCenter=true&width=620&lines=Welcome+to+my+little+corner+of+GitHub!+🌸;Full+Stack+Developer+💻+%26+Designer+🎨;I+turn+ideas+into+code+and+magic!+✨;Always+learning%2C+always+growing+🌱;Let's+build+something+amazing!+💖)](https://github.com/shivsspace)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Nunito&weight=800&size=20&pause=1000&color=E91E8C&center=true&vCenter=true&width=620&lines=Welcome+to+my+little+corner+of+GitHub!+🌸;AI%2FML+Enthusiast+🤖+%26+Designer+🎨;I+turn+ideas+into+code+and+magic!+✨;Always+learning%2C+always+growing+🌱;Let's+build+something+amazing!+💖)](https://github.com/shivsspace)
 
 <br/>
 
